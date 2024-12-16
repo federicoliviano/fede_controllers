@@ -1,0 +1,3 @@
+<library path="lib/libtrial_controller">
+  <class name="trial_controller/TrialController" type="trial_controller::TrialController" base_class_type="controller_interface::ControllerBase"> </class>
+</library>
